@@ -3,6 +3,7 @@
 🚀 Desenvolvedor Full Stack | Criador do **VSync** | Apaixonado por tecnologia e inovação  
 
 ## 💻 Sobre mim  
+- 🎓 Estudante de Desenvolvimento de Software na **FPF Tech** 
 - 🔧 Trabalho com **Django, DRF, Angular e Python**  
 - 🚗 Criador do **VSync**, plataforma de gestão veicular  
 - 📊 Aprendendo **Power BI** para análise de dados  
