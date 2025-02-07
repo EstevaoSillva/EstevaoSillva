@@ -16,7 +16,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 Estatísticas  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EstevaoSillva&show_icons=true&theme=radical)  
 
 ## 🚀 Projetos em Destaque  
 🔹 [VSync](https://github.com/EstevaoSillva/VSync.git) - Sistema de gestão de manutenção veicular  
