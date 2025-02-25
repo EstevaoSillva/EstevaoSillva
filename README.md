@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou Estevão Valdivino Silva  
+# 👋 Estevão Valdivino Silva  
 
 🚀 Desenvolvedor Full Stack | Criador do **VSync** | Apaixonado por tecnologia e inovação  
 
 ## 💻 Sobre mim  
 - 🎓 Estudante de Desenvolvimento de Software na **FPF Tech** 
-- 🔧 Trabalho com **Django, DRF, Angular e Python**  
+- 🔧 Trabalho com **Django, DRF, Angular, Flutter e Python**  
 - 🚗 Criador do **VSync**, plataforma de gestão veicular  
 - 📊 Aprendendo **Power BI** para análise de dados  
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/estev%C3%A3o-silva-83b51891/) | [Email](mailto:estevaovaldivinosilva@gmail.com)  
