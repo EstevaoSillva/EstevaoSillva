@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou Estevão Valdivino Silva
 
 🚀 Desenvolvedor Full Stack com foco em backend Django REST e frontend Kotlin / Angular 
+
 📍 Manaus - AM | Aberto a oportunidades remotas ou relocação
 
 ---
