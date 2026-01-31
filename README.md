@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Estevão Valdivino Silva
 
-🚀 Desenvolvedor de Software com foco em **Engenharia de Dados, Backend Python e Inteligência Artificial**
+🚀 Desenvolvedor de Software com foco em **Engenharia de Dados, Backend Python, Inteligência Artificial e Frontend funcional**
 
 📍 Manaus - AM | 🌍 Aberto a oportunidades remotas ou relocação
 
@@ -12,6 +12,7 @@
 - 🧠 Atuação prática em **Data Lakes, pipelines de dados e aplicações baseadas em agentes de IA**
 - 🤖 Experiência com **AGNO, LLMs, RAG e arquitetura de agentes autônomos**
 - ⚙️ Backend Python com foco em **Django REST, validação de dados e sistemas escaláveis**
+- 🎨 Desenvolvimento de **interfaces web funcionais com Angular e Angular Material**, integradas a APIs REST
 - 🤝 Proativo, boa comunicação e aprendizado rápido
 
 📫 **Contato:**  
@@ -44,6 +45,10 @@
 ![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
 ![AGNO](https://img.shields.io/badge/AGNO-222222?style=for-the-badge)
 
+### 🎨 Frontend (Funcional)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white)
+
 ---
 
 ## 🧠 Experiência Profissional
@@ -55,6 +60,7 @@
 - Processamento e ETL distribuído com **Apache Spark**
 - Modelagem dimensional e consultas analíticas com **Trino**
 - Desenvolvimento de **aplicações analíticas baseadas em agentes de IA (AGNO)**
+- Desenvolvimento de **interfaces web com Angular e Angular Material**, focadas em consumo de APIs, formulários, tabelas e dashboards operacionais
 - Implementação de **arquiteturas de agentes autônomos e multagentes**
 - Uso de **Pydantic para contratos de dados, validação e padronização**
 - Integração de **LLMs com controle de contexto e validação de saída**
@@ -65,6 +71,7 @@
 ---
 
 ## 🧪 Projetos & Estudos
+- Interfaces web com **Angular + Angular Material** integradas a APIs REST
 - Arquiteturas de **agentes autônomos orientadas a produção**
 - APIs REST com contratos fortes e validação tipada
 - Pipelines de dados e automação analítica
